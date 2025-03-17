@@ -1,0 +1,62 @@
+.header, footer{
+
+ border-radius: 2%;
+
+}
+.logo{display: inline-flex;}
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Arial', sans-serif;
+}
+
+.btn-primary {
+    background-color: black;
+    border-color:black;
+    font-weight: bold;
+    opacity: .7;
+    transition: all 0.3s ease-in-out;
+    font-style: italic;
+}
+
+.btn-primary:hover {
+    background-color: black;
+    border-color: black;
+    transform: scale(1.05); 
+}
+
+p,h3{
+    font-size: larger;
+    color: white;
+}
+
+
+
+.overlay{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    
+}
+
+
+main{
+    background-image: url("./pictures/background\ picture.jpg");
+
+}
+#logo{
+  border-radius: 15%;
+}
+
+div li{
+    font-weight: bold;
+}
+
+

@@ -1,0 +1,49 @@
+.header{
+
+ border-radius: 2%;
+}
+
+.logo{display: inline-flex;}
+h1 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    font-family: 'Arial', sans-serif;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+main{background-image: url("./pictures/pexels-delbeautybox-211032-853427.jpg");
+
+}
+p{
+    color: white;
+}
+
+.overlay{
+    height: 100vh;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.padd{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+div li{
+    font-weight: bold;
+}
+
+#logo{
+    border-radius: 15%;
+  }
+

@@ -1,0 +1,42 @@
+.header{
+
+    border-radius: 2%;
+   }
+   
+   .logo{display: inline-flex;}
+   h1 {
+       font-size: 2rem;
+       font-weight: bold;
+       margin-left: 10px;
+       display: inline-block;
+       vertical-align: middle;
+       font-family: 'Arial', sans-serif;
+   }
+   h2{
+       text-align: center;
+       color: white;
+       font-weight: bold;
+   }
+
+   .row img{
+    height: 300px;
+    width: 250px;
+    border-radius: 10%;
+   }
+
+
+   div li{
+    font-weight: bold;
+}
+.row div{
+    text-align: center;
+    gap: 20px;
+}
+main{
+    height: 100%;
+    width: 100%;
+}
+
+footer{margin-bottom: 0;}
+
+
